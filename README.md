@@ -1,2 +1,2 @@
-# coffee-site
-Midterm FEW
+# midterm
+Coffee Website
